@@ -22,7 +22,7 @@ No. Ryujinx does not care how the cryptographic keys were obtained. I promise, R
 
 >Thus, Ryujinx is primarily designed to and unlawfully “circumvent[s] a technological measure that effectively controls access to a work protected under” the DMCA and distribution of Ryujinx constitutes unlawful trafficking in technology that is “primarily designed or produced for the purpose of circumventing a technological measure that effectively controls access” to copyrighted works.
 
-"Thus"? No, does not follow.
+"Thus"? No, does not follow.\
 Premise 1: Ryujinx is a Nintendo Switch emulator.\
 Premise 2: Ryujinx needs cryptographic keys from a Nintendo Switch in order to function.\
 Conclusion: Therefore Ryujinx is primarily designed to circumvent technological protections.\
